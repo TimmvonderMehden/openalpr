@@ -4,6 +4,8 @@
 #include <errno.h>
 #include <fstream>
 #include <string.h>
+#include <iosfwd>
+#include <sstream>
 
 
 

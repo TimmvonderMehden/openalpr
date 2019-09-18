@@ -26,7 +26,7 @@ extern "C" {
 #endif
 
 #ifdef WIN32
-  #define OPENALPRC_DLL_EXPORT __declspec( dllexport )
+  #define OPENALPRC_DLL_EXPORT 
 #else
   #define OPENALPRC_DLL_EXPORT
 #endif
